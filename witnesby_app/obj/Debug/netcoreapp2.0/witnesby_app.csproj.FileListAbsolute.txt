@@ -1,0 +1,11 @@
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/bin/Debug/netcoreapp2.0/witnesby_app.deps.json
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/bin/Debug/netcoreapp2.0/witnesby_app.runtimeconfig.json
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/bin/Debug/netcoreapp2.0/witnesby_app.runtimeconfig.dev.json
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/bin/Debug/netcoreapp2.0/witnesby_app.dll
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/bin/Debug/netcoreapp2.0/witnesby_app.pdb
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/obj/Debug/netcoreapp2.0/witnesby_app.csprojResolveAssemblyReference.cache
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/obj/Debug/netcoreapp2.0/witnesby_app.csproj.CoreCompileInputs.cache
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/obj/Debug/netcoreapp2.0/witnesby_app.AssemblyInfoInputs.cache
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/obj/Debug/netcoreapp2.0/witnesby_app.AssemblyInfo.cs
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/obj/Debug/netcoreapp2.0/witnesby_app.dll
+/Users/katherinehanson/Projects/witnesby_app/witnesby_app/obj/Debug/netcoreapp2.0/witnesby_app.pdb
